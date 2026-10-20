@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* A little nod to Will's Yellow Website */
+@theme {
+  --color-sunny-50: #fefce8;
+  --color-sunny-100: #fef9c3;
+  --color-sunny-200: #fef08a;
+  --color-sunny-300: #fde047;
+  --color-sunny-400: #facc15;
+  --color-sunny-500: #eab308;
+  --color-ink: #1c1917;
+  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: var(--color-sunny-50);
+  color: var(--color-ink);
+}
