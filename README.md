@@ -1,5 +1,6 @@
 # Will's Next.js Playground
 
+Live at https://nextjs-skills.vercel.app/
 A three-page Next.js site: multiple choice tests on Next.js (beginner → advanced), a stats page with AG Charts, and an About page.
 
 ## Run it locally
